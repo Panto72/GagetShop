@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyGagetsWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyGagetsWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\202407292320441187.jpg",
+      "PackagePath": "staticwebassets\\Products\\202407292320441187.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\202407292324524743.jpg",
+      "PackagePath": "staticwebassets\\Products\\202407292324524743.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\202407292345044180.jpg",
+      "PackagePath": "staticwebassets\\Products\\202407292345044180.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\202407292345145744.jpg",
+      "PackagePath": "staticwebassets\\Products\\202407292345145744.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\202407292354298515.jpg",
+      "PackagePath": "staticwebassets\\Products\\202407292354298515.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\C1.jpg",
+      "PackagePath": "staticwebassets\\Products\\C1.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\C2.jpg",
+      "PackagePath": "staticwebassets\\Products\\C2.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\L1.jpg",
+      "PackagePath": "staticwebassets\\Products\\L1.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\L2.jpg",
+      "PackagePath": "staticwebassets\\Products\\L2.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\L3.jpg",
+      "PackagePath": "staticwebassets\\Products\\L3.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\L4.jpg",
+      "PackagePath": "staticwebassets\\Products\\L4.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\L5.jpg",
+      "PackagePath": "staticwebassets\\Products\\L5.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\d1.jpg",
+      "PackagePath": "staticwebassets\\Products\\d1.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\d2.jpg",
+      "PackagePath": "staticwebassets\\Products\\d2.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\d3.jpg",
+      "PackagePath": "staticwebassets\\Products\\d3.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\m1.jpg",
+      "PackagePath": "staticwebassets\\Products\\m1.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\m2.jpg",
+      "PackagePath": "staticwebassets\\Products\\m2.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\m3.jpg",
+      "PackagePath": "staticwebassets\\Products\\m3.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\m4.jpg",
+      "PackagePath": "staticwebassets\\Products\\m4.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\m5.jpg",
+      "PackagePath": "staticwebassets\\Products\\m5.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\m6.jpg",
+      "PackagePath": "staticwebassets\\Products\\m6.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\Products\\m7.jpg",
+      "PackagePath": "staticwebassets\\Products\\m7.jpg"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\dotnet\\MyGagetsWebApp\\MyGagetsWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyGagetsWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyGagetsWebApp.props",
+      "PackagePath": "build\\MyGagetsWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyGagetsWebApp.props",
+      "PackagePath": "buildMultiTargeting\\MyGagetsWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyGagetsWebApp.props",
+      "PackagePath": "buildTransitive\\MyGagetsWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
